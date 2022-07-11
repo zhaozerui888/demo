@@ -1,0 +1,19 @@
+{
+    "name": "zhaozerui888/demo",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zhaozerui888\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhaoyanping",
+            "email": "15031226078@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
